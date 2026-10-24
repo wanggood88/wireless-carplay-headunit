@@ -1,0 +1,7 @@
+*.apk
+*.dex
+*.jks
+*.keystore
+*.pk8
+*.x509.pem
+headunit_report.txt
